@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "981086320705",
+    "project_id": "signup-a12ff",
+    "storage_bucket": "signup-a12ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981086320705:android:60b26e8e09ee6a8fd6aec0",
+        "android_client_info": {
+          "package_name": "com.example.signupform"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANH0W_2ICbHktuoRNYhTs53fOGC0xrxXA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
